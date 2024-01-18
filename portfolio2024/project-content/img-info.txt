@@ -1,0 +1,12 @@
+
+Email
+width = 720
+height = 632
+
+height
+width = 720
+height = 654
+
+chrome responsive 
+width = 1000
+height = 872
